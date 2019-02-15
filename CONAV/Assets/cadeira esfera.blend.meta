@@ -3,6 +3,27 @@ guid: 687a8d5def40b044b95490612d20fdc6
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: Circle
+    100004: Plane_001
+    100006: Sphere
+    400000: //RootNode
+    400002: Circle
+    400004: Plane_001
+    400006: Sphere
+    2100000: Material_003
+    2100002: Material_002
+    2300000: Circle
+    2300002: Plane_001
+    2300004: Sphere
+    3300000: Circle
+    3300002: Plane_001
+    3300004: Sphere
+    4300000: Plane_001
+    4300002: Circle
+    4300004: Sphere
+    7400000: Default Take
+    9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
@@ -57,7 +78,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0

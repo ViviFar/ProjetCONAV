@@ -3,6 +3,38 @@ guid: a4a9c87857dda08498db44d249847f93
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: bubblechair_glass
+    100004: bubblechair_polst_000
+    100006: bubblechair_polstr
+    100008: bubblechair_ram
+    100010: Cylinder
+    400000: //RootNode
+    400002: bubblechair_glass
+    400004: bubblechair_polst_000
+    400006: bubblechair_polstr
+    400008: bubblechair_ram
+    400010: Cylinder
+    2100000: chrom
+    2100002: gray_Leather
+    2100004: sklo
+    2300000: bubblechair_glass
+    2300002: bubblechair_polst_000
+    2300004: bubblechair_polstr
+    2300006: bubblechair_ram
+    2300008: Cylinder
+    3300000: bubblechair_glass
+    3300002: bubblechair_polst_000
+    3300004: bubblechair_polstr
+    3300006: bubblechair_ram
+    3300008: Cylinder
+    4300000: Cylinder
+    4300002: bubblechair_polst_000
+    4300004: bubblechair_polstr
+    4300006: bubblechair_ram
+    4300008: bubblechair_glass
+    7400000: Default Take
+    9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
@@ -57,7 +89,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
