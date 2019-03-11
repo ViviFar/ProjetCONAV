@@ -29,7 +29,7 @@ public class Dynamite : MonoBehaviour
 		if (collision.gameObject.CompareTag(explodeOnTag))
 		{
 			Explode();
-			Fracturable fracturable = collision.gameObject.GetComponentInParent<Fracturable>();
+			Fracturable fracturable = collision.transform.parent.GetComponent<Fracturable>();
 			if (fracturable != null)
 			{
 				fracturable.Fracture();
