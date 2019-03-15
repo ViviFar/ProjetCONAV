@@ -57,6 +57,7 @@ public class Cassette : MonoBehaviour
         else
         {
             transform.position = tiroir.position;
+            transform.SetParent(tiroir);
         }
     }
 }
